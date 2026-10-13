@@ -1,0 +1,5 @@
+retriever,avg_latency_ms,min_latency_ms,max_latency_ms,avg_source_diversity,avg_chunks
+BM25,1.04,0.33,2.4,1.75,5.0
+Semantic,755.62,587.81,970.74,2.0,5.0
+Hybrid,888.48,785.12,1140.12,1.75,5.0
+MMR,1714.48,1451.53,2092.1,2.0,5.0

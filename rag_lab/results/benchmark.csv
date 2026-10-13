@@ -1,0 +1,17 @@
+question_id,question,retriever,latency_ms,results_count,unique_chunks,source_diversity
+q001,How do I declare a fang variable?,BM25,2.4,5,5,2
+q001,How do I declare a fang variable?,Semantic,970.74,5,5,2
+q001,How do I declare a fang variable?,Hybrid,1140.12,5,5,2
+q001,How do I declare a fang variable?,MMR,1848.21,5,5,2
+q002,Which VIPER data type stores whole numbers?,BM25,0.73,5,5,1
+q002,Which VIPER data type stores whole numbers?,Semantic,624.92,5,5,2
+q002,Which VIPER data type stores whole numbers?,Hybrid,785.12,5,5,1
+q002,Which VIPER data type stores whole numbers?,MMR,1466.08,5,5,2
+q003,What is an illegal identifier?,BM25,0.33,5,5,2
+q003,What is an illegal identifier?,Semantic,839.03,5,5,2
+q003,What is an illegal identifier?,Hybrid,788.93,5,5,2
+q003,What is an illegal identifier?,MMR,2092.1,5,5,2
+q004,How do I write a conditional statement?,BM25,0.7,5,5,2
+q004,How do I write a conditional statement?,Semantic,587.81,5,5,2
+q004,How do I write a conditional statement?,Hybrid,839.75,5,5,2
+q004,How do I write a conditional statement?,MMR,1451.53,5,5,2

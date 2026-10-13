@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "q001",
+    "question": "How do I declare a fang variable?",
+    "category": "syntax",
+    "relevant_chunk_ids": []
+  },
+  {
+    "id": "q002",
+    "question": "Which VIPER data type stores whole numbers?",
+    "category": "conceptual",
+    "relevant_chunk_ids": []
+  },
+  {
+    "id": "q003",
+    "question": "What is an illegal identifier?",
+    "category": "lexical_errors",
+    "relevant_chunk_ids": []
+  },
+  {
+    "id": "q004",
+    "question": "How do I write a conditional statement?",
+    "category": "code_examples",
+    "relevant_chunk_ids": []
+  }
+]
